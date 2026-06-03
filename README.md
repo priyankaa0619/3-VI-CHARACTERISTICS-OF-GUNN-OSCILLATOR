@@ -54,6 +54,10 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 *Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.*
 
 **B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
+<img width="639" height="463" alt="WhatsApp Image 2026-06-03 at 10 12 14 AM" src="https://github.com/user-attachments/assets/8e527536-361e-43ee-b3e1-0fc1cf144aa2" />
+
+<img width="494" height="640" alt="WhatsApp Image 2026-06-03 at 10 12 14 AM (1)" src="https://github.com/user-attachments/assets/b123b9bc-1e92-49a1-b1ca-1b506f667e9e" />
+
 
 **C.Analysis of Results: (Write your own)**
 
@@ -68,4 +72,9 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 •	Observation should be taken properly.
 
 **Result:**
-
+The I–V characteristics of the Gunn diode were plotted and the negative resistance region was identified.
+Peak voltage (Vₚ) = 2.5 V, Valley voltage (Vᵥ) = 5 V.
+Peak current (Iₚ) = 195 mA, Valley current (Iᵥ) = 175 mA.
+Calculated negative resistance (Rₙ) ≈ –125 Ω.
+The depth of modulation of the PIN diode can be obtained from the dB difference in the VSWR readings.
+Hence, the experiment is successfully performed, and the negative differential resistance characteristics of the Gunn diode were verified
