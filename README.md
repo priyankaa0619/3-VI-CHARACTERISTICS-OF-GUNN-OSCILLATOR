@@ -63,13 +63,22 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 (Include sample calculations/Display/plot/typical graph)
 
-**D.Conclusions: (Write  your Own)**
+**D.Conclusions: **
 
+
+The I–V characteristic of the Gunn diode exhibits a negative differential resistance region between approximately 2.5 V and 5 V, confirming its capability for microwave oscillation.
+The peak current and valley current were observed at 195 mA and 175 mA, respectively.
+The calculated negative resistance of about –125 Ω supports the theory of transferred electron effect in Gunn diodes.
+The experiment successfully demonstrates the working principle of a Gunn oscillator and the role of the negative resistance region in generating microwave signals.
+The depth of modulation of the PIN diode can be determined using the difference in dB readings on the VSWR meter corresponding to the maximum and minimum attenuation.
 **Precautions:**
 
 •	Check the connections before switching on the kit.
 •	Connections should be done properly.
 •	Observation should be taken properly.
+
+**SAMPLE CALCULATION**
+<img width="779" height="279" alt="WhatsApp Image 2026-06-03 at 10 17 46 AM" src="https://github.com/user-attachments/assets/65df51c0-38f2-49f1-b24f-576ba3ede4c9" />
 
 **Result:**
 The I–V characteristics of the Gunn diode were plotted and the negative resistance region was identified.
